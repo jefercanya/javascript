@@ -1,3 +1,7 @@
+## Abrir una nueva pestaña en chrome para programar en javascript (clic derecho - inspeccionar - consola)
+
+about:blank
+
 ## Respuestas al Test de JavaScript
 
 Recuerda que estas respuestas (o al  menos la mayoría) NO SON ABSOLUTAS. Es completamente válido (en la mayoría de casos) si tienes otras respuestas. Recuerda que podemos discutirlo en la sección de comentarios del curso. :D
